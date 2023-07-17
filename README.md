@@ -35,12 +35,12 @@ O projeto inclui as seguintes tecnologias:
 ### Funcionalidades
 O projeto possui as seguintes funcionalidades:
 
-- Noções básicas de como o Flutter funciona.
-- Como criar layouts no Flutter.
-- Como conectar as interações do usuário, como pressionamentos de botão, ao comportamento do app.
-- Como manter o código do Flutter organizado.
-- Como tornar seu app responsivo.
-- Como criar uma aparência consistente no app.
+- Noções básicas de como o Flutter funciona
+- Como criar layouts no Flutter
+- Como conectar as interações do usuário, como pressionamentos de botão, ao comportamento do app
+- Como manter o código do Flutter organizado
+- Como tornar seu app responsivo
+- Como criar uma aparência consistente no app
 
 ## Scripts
 O projeto inclui os seguintes scripts:
